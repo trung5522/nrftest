@@ -1,0 +1,2 @@
+../Core/Src/example.c:12:13:error	8	static
+../Core/Src/example.c:22:6:example	128	static
